@@ -1,7 +1,7 @@
 mlify
 ==============================
 
-A short description of the project.
+Bare-metal implementations of some simple yet effective ML algorithms.
 
 Project Organization
 ------------
