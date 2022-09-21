@@ -1,3 +1,5 @@
+
+
 <center>
 <table>
   <tr>
@@ -12,6 +14,21 @@
   </tr>
   <tr>
     <td>K-Means Model</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Tree</td>
+    <td>Decision Tree</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Random Forest Tree</td>
+    <td>✓</td>
+  </tr>
+ 
+  <tr>
+    <td rowspan="1">Deep Learning</td>
+    <td>Feed Forward Neural Network</td>
     <td>✓</td>
   </tr>
 </table>
