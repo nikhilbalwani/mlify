@@ -1,4 +1,4 @@
-
+The goal is to implement Machine Learning Algorithms in Python Notebook Format. The notebooks are annotated to make it easier for readers to acquire an in-depth knowledge of these algorithms.
 
 <center>
 <table>
