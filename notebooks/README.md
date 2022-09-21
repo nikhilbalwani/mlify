@@ -27,8 +27,8 @@
   </tr>
  
   <tr>
-    <td rowspan="1"><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Deep%20Learning/Feed%20Forward%20Neural%20Network.ipynb">Deep Learning</a></td>
-    <td>Feed Forward Neural Network</td>
+    <td rowspan="1">Deep Learning</td>
+    <td><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Deep%20Learning/Feed%20Forward%20Neural%20Network.ipynb">Feed Forward Neural Network</a></td>
     <td>✓</td>
   </tr>
 </table>
