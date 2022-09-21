@@ -1,3 +1,4 @@
+<center>
 <table>
   <tr>
     <th>Type</th>
@@ -14,3 +15,4 @@
     <td>✓</td>
   </tr>
 </table>
+<center>
