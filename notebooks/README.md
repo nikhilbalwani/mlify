@@ -2,7 +2,7 @@
 
 Welcome to the notebooks section of this project.
 
-The goal is to implement Machine Learning Algorithms in Python Notebook Format. The notebooks are annotated to make it easier for readers to acquire an in-depth knowledge of these algorithms.
+The goal is to implement Machine Learning Algorithms in Python Notebook Format. The notebooks are annotated to make it easier for readers to acquire an in-depth knowledge of these algorithms. All the algorithms are implemented using Numpy without using tools like Autograd so as to reinforce a stronger understanding of the inner-workings.
 
 <center>
 <table>
