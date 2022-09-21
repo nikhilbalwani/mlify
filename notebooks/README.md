@@ -9,25 +9,25 @@
   </tr>
   <tr>
     <td rowspan="2">Clustering</td>
-    <td>Gaussian Mixture Model</td>
+    <td><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Clustering/Gaussian%20Mixture%20Models.ipynb">Gaussian Mixture Model</a></td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>K-Means Model</td>
+    <td><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Clustering/K-means.ipynb">K-Means Model</a></td>
     <td>✓</td>
   </tr>
   <tr>
     <td rowspan="2">Tree</td>
-    <td>Decision Tree</td>
+    <td><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Trees/Decision%20Tree.ipynb">Decision Tree</a></td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>Random Forest Tree</td>
+    <td><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Trees/Random%20Forest.ipynb">Random Forest Tree</a></td>
     <td>✓</td>
   </tr>
  
   <tr>
-    <td rowspan="1">Deep Learning</td>
+    <td rowspan="1"><a href="https://github.com/nikhilbalwani/mlify/blob/master/notebooks/Deep%20Learning/Feed%20Forward%20Neural%20Network.ipynb">Deep Learning</a></td>
     <td>Feed Forward Neural Network</td>
     <td>✓</td>
   </tr>
